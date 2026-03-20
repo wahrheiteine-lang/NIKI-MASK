@@ -1,4 +1,4 @@
-# ニキマスク / NIKIMASKU
+# ニキマスク / NIKI-MASK
 **Private Mask Painter**
 
 > 「引かぬ。媚びぬ。ナンバーは消す。」
